@@ -1,0 +1,51 @@
+{
+  "1": {
+    "id": 1,
+    "parentId": null,
+    "value": "root",
+    "isFolder": true,
+    "children": [2, 3, 4]
+  },
+  "2": {
+    "id": 2,
+    "parentId": 1,
+    "value": "Public",
+    "isFolder": true,
+    "children": []
+  },
+  "3": {
+    "id": 3,
+    "parentId": 1,
+    "value": "Src",
+    "isFolder": true,
+    "children": [5, 6, 7]
+  },
+  "4": {
+    "id": 4,
+    "parentId": 1,
+    "value": "package.json",
+    "isFolder": false,
+    "children": []
+  },
+  "5": {
+    "id": 5,
+    "parentId": 3,
+    "value": "App.js",
+    "isFolder": false,
+    "children": []
+  },
+  "6": {
+    "id": 6,
+    "parentId": 3,
+    "value": "Index.js",
+    "isFolder": false,
+    "children": []
+  },
+  "7": {
+    "id": 7,
+    "parentId": 3,
+    "value": "style.css",
+    "isFolder": false,
+    "children": []
+  }
+}
